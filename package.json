@@ -1,0 +1,22 @@
+{
+  "name": "covid-19-sms",
+  "version": "1.0.0",
+  "description": "A nodejs api to send sms msg using africatalking api for delevering information about COVID-19 virus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Robgogo/Covid-19-SMS.git"
+  },
+  "author": "Robera Worku",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Robgogo/Covid-19-SMS/issues"
+  },
+  "homepage": "https://github.com/Robgogo/Covid-19-SMS#readme",
+  "dependencies": {
+    "africastalking": "^0.4.5"
+  }
+}
