@@ -1,3 +1,7 @@
+<div align="center">
+  <img alt="ACRT Awareness SMS" src="acrt_19_sms.png" width="650px">
+</div>
+
 # Covid-19-SMS
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
